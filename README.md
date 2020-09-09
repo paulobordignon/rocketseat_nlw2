@@ -1,8 +1,8 @@
 # rocketseat_nlw2 (Proffy)
 
-<p style="text-align:center">
+<center>
 <img src="https://github.com/paulobordignon/rocketseat_nlw2/blob/master/web/src/assets/images/landing.svg"> 
-</p>
+</center>
 
 ### Execução
 Instalar Node.js, Yarn e Expo. Posteriormente em cada pasta do projeto, deverá ser instalado as seguintes dependências:
